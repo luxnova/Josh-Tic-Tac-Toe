@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<applicotest.android.com.android_tic_tac_toe.widget.RevealFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/parent"
+    android:padding="2dp">
+
+
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/cell"
+        android:background="@color/background_material_dark"/>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/textview"
+        android:textColor="#ffffffff"
+        android:textSize="50sp"
+        android:gravity="center"/>
+
+
+</RelativeLayout>
+</applicotest.android.com.android_tic_tac_toe.widget.RevealFrameLayout>

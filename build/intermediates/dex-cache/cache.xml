@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-838ba0d84db77d24703026c88fa4e909a31b3b1d.jar" />
+    </item>
+    <item
+        jar="/Users/JoshuaWilliams/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/library-2.4.0-7be6fbe665d46ac3e97467dbe9c22749847ddc75.jar" />
+    </item>
+    <item
+        jar="/Users/JoshuaWilliams/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.7/da23f0d13a0a572e01a1b53b547cbdc7a5b52209/rebound-0.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da23f0d13a0a572e01a1b53b547cbdc7a5b52209">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/rebound-0.3.7-81c49ba9d2c83d625afece95695fbe9bc5d3c258.jar" />
+    </item>
+    <item
+        jar="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/classes-71af1ff69569cddc15307170ba49bf689c86e901.jar" />
+    </item>
+    <item
+        jar="/Users/JoshuaWilliams/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a8e61e143accdee355e173055da3439f36187c36.jar" />
+    </item>
+    <item
+        jar="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/JoshuaWilliams/Desktop/Android-Tic-Tac-Toe/app/build/intermediates/pre-dexed/debug/classes-3f18e5dc0c8d183bbd926e09af4438cff0ff99dd.jar" />
+    </item>
+
+</items>

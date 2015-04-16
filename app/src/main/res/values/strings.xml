@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android-Tic-Tac-Toe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="You_win">You win!</string>
+    <string name="GreatJob">Great job! If you wish to play again select ok, else just press the back button.</string>
+    <string name="You_Lose">You Lose!</string>
+    <string name="awe_than_sics">Awe that sucks. If you wish to play again select ok, else just press the back button.</string>
+    <string name="tie">Tie!</string>
+    <string name="tiedmatch">"Looks like you are evenly matched! If you wish to play again select ok, else just press the back button. "</string>
+    <string name="startcputurn">Starting Computer Turn.</string>
+    <string name="computer_is_playing">Computer is playing...</string>
+</resources>
